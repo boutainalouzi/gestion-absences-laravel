@@ -1,0 +1,49 @@
+public/css/style.css:14: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:22: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:26: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:33: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:42: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:45: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:51: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:56: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:70: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:74: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:78: trailing whitespace.
+[32m+[m[41m  [m
+public/css/style.css:213: trailing whitespace.
+[32m+[m[32m  background-image:[m[41m [m
+public/css/style.css:1016: new blank line at EOF.
+resources/views/docs/index.blade.php:288: trailing whitespace.
+[32m+[m[41m        [m
+resources/views/docs/index.blade.php:646: trailing whitespace.
+[32m+[m[41m        [m
+resources/views/layouts/app.blade.php:8: trailing whitespace.
+[32m+[m[41m    [m
+resources/views/layouts/app.blade.php:25: trailing whitespace.
+[32m+[m[41m    [m
+resources/views/layouts/app.blade.php:229: trailing whitespace.
+[32m+[m[41m        [m
+resources/views/layouts/app.blade.php:235: trailing whitespace.
+[32m+[m[41m            [m
+resources/views/profile/index.blade.php:18: trailing whitespace.
+[32m+[m[32m                <img id="avatarPreview" src="{{ $user->avatarUrl() }}"[m[41m [m
+resources/views/profile/index.blade.php:19: trailing whitespace.
+[32m+[m[32m                     alt="Photo de profil"[m[41m [m
+resources/views/profile/index.blade.php:20: trailing whitespace.
+[32m+[m[32m                     class="user-avatar"[m[41m [m
+resources/views/welcome.blade.php:177: trailing whitespace.
+[32m+[m[41m                        [m
+resources/views/welcome.blade.php:189: trailing whitespace.
+[32m+[m[41m                        [m
+resources/views/welcome.blade.php:201: trailing whitespace.
+[32m+[m[41m                        [m
