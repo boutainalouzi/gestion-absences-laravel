@@ -22,6 +22,7 @@ Ses principales fonctionnalités :
 - Accepter ou refuser les justificatifs déposés par les stagiaires.
 - Corriger les absences enregistrées par erreur.
 - Recevoir des notifications lorsqu'un formateur déclare son absence.
+- faire des conseils de discipline
 
 ### Formateur (Enseignant)
 Le formateur peut gérer les absences liées à ses groupes.
@@ -30,6 +31,7 @@ Ses principales fonctionnalités :
 - Consulter la liste des stagiaires de ses groupes.
 - Enregistrer les absences des stagiaires.
 - Déclarer sa propre absence.
+- declarer un conseil de discipline
 
 ### Stagiaire
 Le stagiaire dispose d'un espace personnel pour suivre sa situation.
@@ -38,7 +40,7 @@ Ses principales fonctionnalités :
 - Consulter ses absences.
 - Déposer un certificat ou un document justificatif.
 - Connaître le délai de dépôt du justificatif (48 heures).
-- Consulter le statut de ses justificatifs (accepté ou refusé).
+- Consulter le statut de ses justificatifs
 - Recevoir une notification lorsqu'une absence est enregistrée à son nom.
 - Consulter et suivre l'évolution de sa note de discipline.
 
